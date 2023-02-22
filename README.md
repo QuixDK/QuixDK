@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuixDK
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java + Spring
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java, C#, BigData, reverse engineering, AI.
+- 🌱 I’m currently learning Java + Spring, C#
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me (stroganovdanila@outlook.com)
 
 <!---
